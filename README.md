@@ -6,7 +6,6 @@ Desde el año 2022 me encuentro estudiando y practicando software testing.
 <br>
 En este portfolio comparto mis conocimientos y practicas de QA que adquirí a través de diferentes cursos y también mediante el aprendizaje autodidacta.
 <br>
-Mi objetivo es continuar incorporando nuevas habilidades y herramientas para crecer profesionalmente como analista QA.
 
 ## ⚙️Tools 
 <div>
